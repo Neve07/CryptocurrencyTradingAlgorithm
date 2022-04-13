@@ -2,6 +2,11 @@
 # Cryptocurrency Algorithm
 # This project is solely to explore and apply my learnings related to cryptocurrency data
 # Different sections build on each other, adding more elements as I learned more
+#
+#
+# Check out my portfolio to better understand this projects route! https://nevedhaa.com/pa-blog.html
+#
+#
 ####################
 
 import yfinance as yf
